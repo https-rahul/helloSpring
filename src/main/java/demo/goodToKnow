@@ -1,0 +1,8 @@
+TODO / Notes:
+    1. Tight coupling and lose coupling.
+    2. lose coupling help in unit testing.
+    3. To do lose coupling, dependency injector comes into picture.
+    4. Dependency inversion: giving control to Spring to handle dependencies. IOC: Inversion of Control.
+    5. Can be done via: Annotation Based Config, JAVA Based config, XML Config
+    6. to add dependency we use POM.XML which is like .YAML in flutter.
+    7. Everything
